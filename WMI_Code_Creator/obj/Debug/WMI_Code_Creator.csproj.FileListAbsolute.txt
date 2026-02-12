@@ -1,0 +1,9 @@
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.csproj.AssemblyReference.cache
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.Properties.Resources.resources
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.csproj.GenerateResource.cache
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.csproj.CoreCompileInputs.cache
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\bin\Debug\WMI_Code_Creator.exe.config
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\bin\Debug\WMI_Code_Creator.exe
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\bin\Debug\WMI_Code_Creator.pdb
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.exe
+D:\Data\Tailieu\Projects\C#\WMI_Code_Creator\WMI_Code_Creator\obj\Debug\WMI_Code_Creator.pdb
